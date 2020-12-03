@@ -1,0 +1,10 @@
+11 8
+2 4
+G G G G G G B W W W B
+G G G G G G W T F F W
+G G G G G G W T W F W
+B W W W W W B T W F W
+W F F F S F S F S F W
+W F W F W F W F B W B
+W F F F F F F F W G G
+B W W W W W W W B G G

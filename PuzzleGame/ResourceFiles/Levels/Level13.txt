@@ -1,0 +1,16 @@
+16 14
+6 10
+G G G G G G G G G G G B W W W B
+G G G G G G G G G G B B F F F W
+G G G G G G G G G G W F F F F W
+G G G G B W W B G G W F S F B B
+G G G G W F F B W W B S F S W G
+G G G G W F F F F F S F S F W G
+G G G B B F W B F S F S F S W G
+G G G W F F T W F F S F S F W G
+G G G W F F T W F F F F F F W G
+B W W B W F W B W B W W W W B G
+W T T T T F F F F W G G G G G G
+W T T T T F F F F W G G G G G G
+B B F F B W W W W B G G G G G G
+G B W W B G G G G G G G G G G G

@@ -1,0 +1,12 @@
+13 10
+11 1
+G G B W W W W W B W W W B
+G B B F F F F F W F F F W
+B B B F S F S S W F F F W
+W G B B S F F F F S S F W
+W G G W F F S F W F F F W
+B W W B W W F W B W B B B
+W T T F T T S F W G B B G
+W F T T F F F F B B B G G
+W F F T T B B B B B G G G
+B W W W W B B B B G G G G

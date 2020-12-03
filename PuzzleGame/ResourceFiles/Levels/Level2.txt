@@ -1,0 +1,9 @@
+6 7
+3 2
+B W W W W B
+W F F F F W
+W F W F F W
+W F S & F W
+W F T & F W
+W F F F F W
+B W W W W B
